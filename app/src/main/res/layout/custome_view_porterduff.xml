@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.example.androidview.widget.basicView.BasicView02_PorterDuffXfermode01
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <com.example.androidview.widget.basicView.BasicView02_PorterDuffXfermode03_Easer
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp" />
+            <!---->
+            <com.example.androidview.widget.basicView.BasicView02_PorterDuffXfermode02
+                android:layout_width="match_parent"
+                android:layout_height="399dp"
+                android:layout_marginTop="20dp" />
+            <!---->
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</layout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidView</string>
+    <string name="hcpay_repayment_apply_successful_desc_new"> <![CDATA[<font color="#BB86FC">您的还款申请已成功提交</font><font color="#151515"> 支付宝、微信支付 </font><font color="#5D5D5D">扫码消费</font>]]></string>
+    <string name="hcpay_repayment_apply_successful_desc_new2"> <![CDATA[<font color="#5D5D5D">您的还款申请已成功提交</font><br/><font color="#5D5D5D">明日款项将自动由银行卡扣除，请提前</font><br/><font color="#F20C32">预留充足余额</font><font color="#5D5D5D">以保证代扣成功</font>]]></string>
+
+
+</resources>
